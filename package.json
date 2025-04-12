@@ -1,16 +1,10 @@
 {
   "name": "projetobackend",
   "version": "1.0.0",
-<<<<<<< HEAD
-  "main": "oi.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
->>>>>>> 4d7f7c0 (adiciona a segunda versão do meu projeto)
   },
   "keywords": [],
   "author": "",
